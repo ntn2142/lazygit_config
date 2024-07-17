@@ -1,0 +1,1 @@
+# lazygit_config
